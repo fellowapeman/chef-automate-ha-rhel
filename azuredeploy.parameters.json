@@ -3,19 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "objectId": {
-            "value": "GEN-UNIQUE"
+            "value": "chef-automate"
         },
         "vaultSku": {
             "value": "Standard"
         },
         "adminUsername": {
-            "value": "GEN-UNIQUE"
+            "value": "tonybox"
         },
-        "sshKeyData": {
-            "value": "GEN-SSH-PUB-KEY"
-        },
+      "sshKeyData": {
+        "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDGNIF5r59QmbwVOOAn3qTgIFSR8ZofUTD9RPaMV1WTl3sb9MI5yEgKzu7+oPrenCMik6TVUpRs09CwbQ76BFi3YQa+KsB5T2npgWN8hg0MOH6mK3i6GIFBNm0rpWwVuCsX0q04AMIHILetQUZ1Eu6pwW24pxjSR1mlk5Vj/pwdY907D+ok440JINpRYIGdETas7q7xE0OsmSCB5kHSIcILAMb/2FOk+PhE19O+qFY+ZNVnOqLRCqPCepBCZT8s9wUITLtHh/SxmEA1+6Pkf8ynBuwWSSUabFVdPqKiTZBHSckhCIV9hF7SsobIkoYJLlWYX4grypsEFI30ngJ8rQ3J"
+      },
         "vmSize": {
-            "value": "Standard_F4s"
+            "value": "Standard_DS3"
         },
         "chefServerDnsPrefix": {
             "value": "chefserver"
@@ -24,22 +24,22 @@
             "value": "chefautomate"
         },
         "firstName": {
-            "value": "User"
+            "value": "tony"
         },
         "lastName": {
-            "value": "Name"
+            "value": "box"
         },
         "emailId": {
-            "value": "user@password.com"
+            "value": "tobox@microsoft.com"
         },
         "organizationName": {
-            "value": "GEN-UNIQUE"
+            "value": "testitout"
         },
         "appID": {
-            "value": "GEN-UNIQUE"
+            "value": "myapp"
         },
         "password": {
-            "value": "GEN-PASSWORD"
+            "value": "thisismypassword"
         }
     }
 }
